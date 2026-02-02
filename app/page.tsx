@@ -252,7 +252,7 @@ export default function LandingPage() {
               </div>
               <div className="pt-6">
                 <Link
-                  href="https://wa.me/5511974285733"
+                  href="https://w.app/jk01r4"
                   className="inline-flex items-center justify-center rounded-md bg-white px-8 py-4 text-lg font-medium text-green-700 shadow-lg transition-all duration-300 hover:bg-gray-200 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2 transform"
                 >
                   Quero saber mais
@@ -376,7 +376,7 @@ export default function LandingPage() {
                 </p>
 
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Há <strong>3 anos</strong> acompanho, presencialmente e on-line, centenas de alunos que buscam desde o
+                  H�� <strong>3 anos</strong> acompanho, presencialmente e on-line, centenas de alunos que buscam desde o
                   emagrecimento saudável até o ganho de força e disposição para o dia a dia.
                 </p>
 
@@ -527,7 +527,7 @@ export default function LandingPage() {
             {/* CTA Button */}
             <div className="text-center">
               <Link
-                href="https://wa.me/5511974285733"
+                href="https://w.app/jk01r4"
                 className="inline-flex items-center justify-center rounded-md px-12 py-4 text-lg font-bold text-white shadow-lg transition-all duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-offset-2 transform"
                 style={{
                   backgroundColor: "#c0ae76",
@@ -937,7 +937,7 @@ export default function LandingPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
-                href="https://wa.me/5500000000000"
+                href="https://w.app/jk01r4"
                 className="inline-flex items-center justify-center rounded-md bg-green-700 px-8 py-6 text-lg font-medium text-white shadow transition-colors hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2"
               >
                 Fale pelo WhatsApp
@@ -979,7 +979,7 @@ export default function LandingPage() {
               </p>
               <div className="flex space-x-4">
                 <Link
-                  href="https://wa.me/5511974285733"
+                  href="https://w.app/jk01r4"
                   target="_blank"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
