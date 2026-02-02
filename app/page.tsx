@@ -940,7 +940,7 @@ export default function LandingPage() {
                 href="https://w.app/jk01r4"
                 className="inline-flex items-center justify-center rounded-md bg-green-700 px-8 py-6 text-lg font-medium text-white shadow transition-colors hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2"
               >
-                Fale pelo WhatsApp
+                Falar por WhatsApp
               </Link>
             </div>
             <p className="text-sm text-gray-700">Resposta em até 24 horas</p>
