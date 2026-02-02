@@ -1022,7 +1022,7 @@ export default function LandingPage() {
             <div className="space-y-4">
               <h3 className="text-lg font-semibold">Contato</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>WhatsApp: (11) 97428-5733</li>
+                <li>WhatsApp: (13) 99198-9962</li>
                 <li>Email: belereisvp@gmail.com</li>
                 <li>São Paulo, SP</li>
               </ul>
