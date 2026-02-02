@@ -1118,8 +1118,8 @@ export default function LandingPage() {
                 <Image
                   src="/team-reis-crown-logo.png"
                   alt="Team Reis Logo"
-                  width={34}
-                  height={34}
+                  width={32}
+                  height={32}
                   className="rounded-lg"
                 />
                 <span
